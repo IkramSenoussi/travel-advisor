@@ -18,6 +18,7 @@ const App = () => {
         getPlacesData()
             .then((data) => {
                  console.log(data);
+                 
 
                  setPlaces(data);
             })
