@@ -20,3 +20,7 @@ our project is divided into two parts , the first one in a landing page who take
 - rating
 - …
 - 
+ Ce projet est réalisé par : -mejdoubi imane.
+ -senoussi ikram.
+-zeroukki khadija.
+-debbali youssra.
